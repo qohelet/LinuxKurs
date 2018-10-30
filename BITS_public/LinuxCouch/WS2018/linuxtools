@@ -1,0 +1,14 @@
+sudo	-	Befehl als Admin ausführen
+mkdir	-	Ordner erzeugen
+git	-	Zu verwendende Versionsverwaltungssoftware
+git clone https://git.tugraz.at/BITS_public.git	- Kursrepository herunterladen
+git status	-	Zeige aktuelle Änderungen im lokalen Repo
+git add [datei]	-	Dateiänderung registrieren
+git commit -m"$Nachricht"	-	Dateiänderungen zum aktuellen Branch hinzufügen
+git push origin	-	Dateien ins remote-Repo (Server) pushen
+ll	-	Dateien mit Rechten anzeigen
+tar xf	-	Dateien entpacken (Erkennt automatisch um welches tarball-Subforiat es sich handelt)
+nano 	-	Einfaches Textverabeitungsprogramm (vorinstalliert. überall. immer)
+chmod	-	Ändert die Rechte der Datei (bspw. Ausführen)
+gcc	-	Allzweckcompiler
+make	-	Spezielles Programm für den Build-Prozess
